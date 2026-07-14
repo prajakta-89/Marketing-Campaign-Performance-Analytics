@@ -566,7 +566,7 @@ GROUP BY c.Channel;
 - Higher conversion rates suggest better campaign quality and audience targeting.
 - Marketing teams can use this insight to improve campaign strategies.
 
-## 📌 Business Question 5: Which Marketing Channels Generated the Highest Number of Conversions?
+## Business Question 5: Which Marketing Channels Generated the Highest Number of Conversions?
 
 ### SQL Query
 
@@ -582,7 +582,7 @@ ORDER BY Total_Conversions DESC;
 ```
 
 ### Output
-![Coversion_by_channel](Campaign_performance_sql_results/total_coversion_by_channel.png)
+![Coversion_by_channel](Campaign_performance_sql_results/total_conversions_by_channel.png)
 
 
 ### Business Insight
@@ -674,7 +674,7 @@ ORDER BY Conversions DESC;
 - Conversion Rate measures how efficiently campaigns convert clicks into successful customer actions.
 - Campaigns with higher conversion rates demonstrate stronger audience targeting and more effective marketing strategies.
 
-## 📌 Business Question 9: Which Campaigns Received the Highest Marketing Spend?
+## Business Question 9: Which Campaigns Received the Highest Marketing Spend?
 
 ### SQL Query
 
@@ -803,3 +803,4 @@ ORDER BY Month;
 ## Author
 **Prajakta Bhondave**
 - Aspiring Data Analyst | SQL |Power BI |Python |Excel |Data Visualization
+- Linkedin : https://www.linkedin.com/in/prajakta-bhondave-773b092a6
