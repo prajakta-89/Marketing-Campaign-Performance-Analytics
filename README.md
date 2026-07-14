@@ -746,7 +746,7 @@ ORDER BY Month;
 
 ### Output
 
-![Monthly_conversions](Campaign_performance_sql_results/monthly_conversions.png)
+![Monthly_conversions](Campaign_performance_sql_results/Monthly_conversions.png)
 
 ### Business Insight
 
