@@ -196,11 +196,11 @@ Features:
 
 ## 📊 Dashboards Preview
 <p>
-  <img src="Campaign_performance_dashboards/Campaign_performance_dashboard1.png" width="700"/>
+  img src="Campaign_performance_dashboards/Campaign_performance_dashboard1.png" width="700"/>
 </p>
 
 <p>
-  <img src="Campaign_performance_dashboards/Campaign_performance_dashboard2.png" width="700"/>
+  img src="Campaign_performance_dashboards/Campaign_performance_dashboard2.png" width="700"/>
 </p>
 
 ## 📈 Key Performance Indicators
